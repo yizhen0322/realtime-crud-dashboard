@@ -1,0 +1,7 @@
+submission/
+submission.zip
+*.pem
+__pycache__/
+node_modules/
+.DS_Store
+.env
